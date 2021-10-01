@@ -1,1 +1,1 @@
-# pipeline2 ![](https://github.cob/muritala/pipeline2/workflows/pipeline/badge.svg)
+# pipeline2 ![](https://github.cob/electronff/pipeline2/workflows/pipeline/badge.svg)
